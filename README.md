@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tfloow
 - 👀 I’m interested in developping my knowledge around coding with fun, useful and innovative experiment
-- 🌱 I’m currently learning JS, Python (and using a rasberry pi)
+- 🌱 I’m currently learning JS, Python (and willing a rasberry pi)
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me @TFL00W on twitter
 
