@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Debelle</h1>
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Tfloow?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
-
 <h3 align="center">I’m interested in developping my knowledge around coding with fun, useful and innovative experiment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tfloow&label=Profile%20views&color=0e75b6&style=flat" alt="tfloow" /> </p>
