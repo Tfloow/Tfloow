@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Debelle</h1>
 
+<p align="center">I am a master student in electrical engineering at KU Leuven specializing in electronics and chip design.</p>
 
 <h3 align="center">I’m interested in developping my knowledge around coding with fun, useful and innovative experiment</h3>
 
